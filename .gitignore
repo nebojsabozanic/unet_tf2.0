@@ -1,0 +1,23 @@
+# ignore logs
+*.txt
+*.log
+
+# pycharm files
+*.pyc
+
+# idea folder
+.idea/
+
+# output folder
+output/
+
+# in development files
+dev/
+
+# log folder
+logs/
+
+# data
+data/
+
+*.hdf5
